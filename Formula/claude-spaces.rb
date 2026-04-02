@@ -1,8 +1,8 @@
 class ClaudeSpaces < Formula
   desc "tmux-based session picker for Claude Code"
   homepage "https://github.com/wired/claude-spaces"
-  url "https://github.com/wired/claude-spaces/archive/refs/tags/v0.9.2.tar.gz"
-  sha256 "7a5961bb8198b16f36c22c1be740a26dc1cc5fdfb810e17d6f3f4dccaa8629a1"
+  url "https://github.com/wired/claude-spaces/archive/refs/tags/v0.9.3.tar.gz"
+  sha256 "4c63ff88f4a826eb897207c6c1e48bc2ef524e7b9a2b1bdcfae6fb3dbc50fcbf"
   license "MIT"
 
   depends_on "bash"
